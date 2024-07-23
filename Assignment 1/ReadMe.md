@@ -156,7 +156,8 @@
 
 ## HTML
 ```
-<div class="out-box4">
+<div class="outline-box">
+    <div class="out-box4">
         <img class="img-box4" src="https://www.designerblogs.com/wp-content/uploads/2023/03/flodesk-logo.png">
         <p class="box4-p">Welcome back!</p>
         <input type="text" placeholder="Enter your email">
@@ -164,6 +165,7 @@
         <button class="btn-box4">Log in to Flodesk</button>
         <p class="box4-p1">Not a member? Sign up Forgot your password?</p>
         <p class="box4-p2">By continuing, you agree to Flodesk's terms and acknowledge you've read our privacy policy</p>
+    </div>
 </div>
 ```
 ## CSS
@@ -211,6 +213,13 @@ input{
     color: gray;
     font-size: 15px;
     text-align: center;
+}
+.outline-box{
+    width: 1000px;
+    margin: 0 auto;
+    /* background-color: #1ce99c; */
+    border-top: 1px solid black;
+    padding-top: 30px;
 }
 ```
 ## OUTPUT

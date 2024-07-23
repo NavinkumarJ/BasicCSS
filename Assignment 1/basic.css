@@ -31,7 +31,7 @@
 .out-box2{
     border: 1px solid lightgray;
     margin: 0px auto;
-    width:450px;
+    width:500px;
     padding:15px 30px;
     font-family: sans-serif;
     border-top-left-radius: 10px;
@@ -40,7 +40,7 @@
 .out-box2-dwn{
     border: 1px solid lightgray;
     margin: 0px auto;
-    width:450px;
+    width:500px;
     padding:15px 30px;
     font-family: sans-serif;
     border-bottom-left-radius: 10px;
@@ -69,7 +69,7 @@
 .out-box3{
     border: 1px solid lightgray;
     margin: 0px auto;
-    width:500px;
+    width:550px;
     font-family: sans-serif;
     border-radius: 10px;
     margin-bottom: 100px;
@@ -150,4 +150,10 @@ input{
     font-size: 15px;
     text-align: center;
 }
-
+.outline-box{
+    width: 1000px;
+    margin: 0 auto;
+    /* background-color: #1ce99c; */
+    border-top: 1px solid black;
+    padding-top: 30px;
+}
