@@ -58,6 +58,7 @@ body{
     bottom: 2px;
     width: 80%;
     border: none;
+    outline: none;
 }
 .zom-head-cont-wrap-rgt{
     width: 100px;
