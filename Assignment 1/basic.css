@@ -150,10 +150,4 @@ input{
     font-size: 15px;
     text-align: center;
 }
-.outline-box{
-    width: 1000px;
-    margin: 0 auto;
-    /* background-color: #1ce99c; */
-    border-top: 1px solid black;
-    padding-top: 30px;
-}
+
